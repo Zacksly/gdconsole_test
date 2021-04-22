@@ -1,0 +1,12 @@
+{
+    "game_name": "Galactic Horizons: Planetary Defense",
+    "creator" : "Zacksly",
+    "gd_version" : "3.3",
+    "packages" : [
+        "galactic_horizons.pck"
+    ],
+    "main_pack" : "galactic_horizons.pck",
+    "case_file" : "cd_base.png",
+    "case_type": "cd",
+    "version" : "1.0"
+}
