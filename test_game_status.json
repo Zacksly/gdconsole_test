@@ -1,6 +1,6 @@
 {
-    "game_name": "Galactic Horizons: Planetary Defense",
-    "creator" : "Zacksly",
+    "app_name": "Galactic Horizons: Planetary Defense",
+    "creator" : "Zacksly Games",
     "gd_version" : "3.3",
     "packages" : [
         "galactic_horizons.pck"
@@ -8,7 +8,7 @@
     "main_pack" : "galactic_horizons.pck",
     "case_file" : "cd_base.png",
     "case_type": "cd",
-    "version" : "1.1",
+    "app_version" : "1.1",
     "update_test_url" : "https://raw.githubusercontent.com/Zacksly/gdconsole_test/main/test_game_status.json",
     "download_url" : "https://zacksly.itch.io/galactic-horizons-planetary-defense"
 }
